@@ -1,0 +1,22 @@
+﻿@model IEnumerable<BOOK.Models.CHUDE>
+
+
+
+
+
+<h1>Chủ đề sách</h1>
+
+@foreach (var item in Model)
+{
+    <ul>
+
+        <li>
+            <a href="@Url.Action("SPTheochude", "Default", new { id = item.MaCD })" >
+                @item.TenChuDe
+            </a>
+        </li>
+       
+    </ul>
+
+
+}

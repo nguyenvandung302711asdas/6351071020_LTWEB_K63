@@ -1,0 +1,21 @@
+﻿@model IEnumerable<BOOK.Models.NHAXUATBAN>
+
+<h1>Nhà xuất bản</h1>
+
+@foreach (var item in Model)
+{
+    <ul>
+
+        <li>
+
+        <li>
+            <a href="@Url.Action("SPTheoNhaXB", "Default", new { id = item.MaNXB })">
+                @item.TenNXB
+            </a>
+        </li>
+        </li>
+
+    </ul>
+
+
+}
