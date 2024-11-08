@@ -1,9 +1,9 @@
 ﻿@model IEnumerable<BOOK.Models.SACH>
+
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/_LayoutPage.cshtml";
 }
-
 
 <div id="templatemo_content_right">
     <ul>
@@ -15,17 +15,12 @@
                     <img alt="@sach.Tensach" src="~/Hinhsanpham/@sach.Anhbia" />
                     <div class="product_info">
                         <p>Etiam luctus. Quisque facilisis suscipit elit. Curabitur...</p>
-                        <h3>$55</h3>
+                        <h3>@sach.Giaban</h3>
                         <a href="@Url.Action("Details", "Default", new { id = sach.Masach })">View Details</a>
                     </div>
                     <div class="cleaner"></div>
                 </div>
-
             </li>
-        
         }
-
     </ul>
-
 </div>
-

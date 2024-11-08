@@ -23,8 +23,13 @@ namespace BOOK.Controllers
         {
             // Retrieve the 5 latest books
             var sachmoi = Laysachmoi(6);
+
             return View(sachmoi);
         }
+
+
+
+
 
         public ActionResult Chude()
         {

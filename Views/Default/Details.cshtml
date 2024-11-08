@@ -13,7 +13,13 @@
         <li>Price: <a href="#">@Model.Giaban</a></li>
         <li>Ngay cap nhat @Model.Ngaycapnhat</li>
         <li>So luong ton: @Model.Soluongton</li>
-      
+
     </ul>
     <span>@Model.Mota</span>
+    <div id="Datmua">
+        <a href="@Url.Action("ThemGiohang", "GioHang", new { iMasach = @Model.Masach, strURL = Request.Url.ToString() })">
+            ĐẶT MUA
+        </a>
+    </div>
+
 </div>
