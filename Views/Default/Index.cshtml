@@ -1,4 +1,8 @@
-﻿@model IEnumerable<BOOK.Models.SACH>
+﻿@model PagedList.IPagedList<BOOK.Models.SACH>
+
+@using BOOK.Models
+@using PagedList.Mvc
+@using PagedList
 
 @{
     ViewBag.Title = "Index";
@@ -23,4 +27,15 @@
             </li>
         }
     </ul>
+    <div>
+    Trang @(Model.PageNumber) / @(Model.PageCount)
+    <div class="Menu Trang">
+        @Html.PagedListPager(Model,page=>Url.Action("Index",    new {page=page}))
+    </div>
+    <style>
+        .Menu li{
+            display:inline;
+            margin:10px;
+        }
+    </style>
 </div>

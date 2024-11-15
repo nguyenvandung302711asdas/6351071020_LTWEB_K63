@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using PagedList;
 
 namespace BOOK.Controllers
 {
@@ -12,23 +13,21 @@ namespace BOOK.Controllers
 
         QLBANSACHEntities data = new QLBANSACHEntities();
         // GET: Default
-
         private List<SACH> Laysachmoi(int count)
         {
-            // Sort by descending update date and take the top 'count' records
             return data.SACHes.OrderByDescending(a => a.Ngaycapnhat).Take(count).ToList();
         }
 
-        public ActionResult Index()
+        public ActionResult Index(int? page)
         {
-            // Retrieve the 5 latest books
+            int pageSize = 5;
+            int pageNumber = (page ?? 1);
+
+            
             var sachmoi = Laysachmoi(6);
 
-            return View(sachmoi);
+            return View(sachmoi.ToPagedList(pageNumber, pageSize));
         }
-
-
-
 
 
         public ActionResult Chude()

@@ -219,5 +219,25 @@
       <End Role="TACGIA" EntitySet="TACGIAs" />
       <End Role="VIETSACH" EntitySet="VIETSACHes" />
     </AssociationSet>
+    <EntitySet Name="Admins" EntityType="QLBANSACHModel.Admin" />
+    <EntitySet Name="sysdiagrams" EntityType="QLBANSACHModel.sysdiagram" />
   </EntityContainer>
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="UserAdmin" />
+    </Key>
+    <Property Name="UserAdmin" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="PassAdmin" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Hoten" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
 </Schema>

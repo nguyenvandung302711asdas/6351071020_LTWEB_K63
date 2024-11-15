@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Book Store Template | Free CSS Template</title>
+    <meta name="keywords" content="Book Store Template, Free CSS Template, CSS Website Layout, CSS, HTML" />
+    <meta name="description" content="Book Store Template, Free CSS Template, Download CSS Website" />
+    <link href="~/Content/templatemo_style.css" rel="stylesheet" type="text/css" />
+
+    <!-- External JS Libraries -->
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="~/Scripts/Chart.min.js"></script>
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="~/tinymce_7.5.1/tinymce/js/tinymce/tinymce.min.js"></script>
+    <script>tinymce.init({ selector: 'textarea' });</script>
+
+    <script>
+        tinymce.init({
+            selector: 'textarea'
+        });
+    </script>
+</head>
+<body>
+    <div id="templatemo_container">
+        <div id="templatemo_menu">
+            <ul>
+                <li>@Html.ActionLink("Trang chủ", "Index", "Admin", null, new { @class = "current" })</li>
+                <li>@Html.ActionLink("Quản lí chủ đề", "SanPham", "Admin")</li>
+                <li>@Html.ActionLink("Quản lí xuất bản", "Nhaxuatban", "Admin")</li>
+                <li>@Html.ActionLink("Quản lý sách", "Sach", "Admin")</li>
+                <li>@Html.ActionLink("Thống kê sách ", "Thongke", "Admin")</li>
+            </ul>
+        </div> <!-- end of menu -->
+
+        <div id="templatemo_header">
+            <div id="templatemo_special_offers">
+                <p>
+                    <span>25%</span> discounts for
+                    purchase over $80
+                </p>
+                <a href="subpage.html" style="margin-left: 50px;">Read more...</a>
+            </div>
+
+            <div id="templatemo_new_books">
+                <ul>
+                    <li>Suspen disse</li>
+                    <li>Maece nas metus</li>
+                    <li>In sed risus ac feli</li>
+                </ul>
+                <a href="subpage.html" style="margin-left: 50px;">Read more...</a>
+            </div>
+        </div> <!-- end of header -->
+
+        <div id="templatemo_content">
+            @RenderBody()
+            <div class="cleaner_with_height">&nbsp;</div>
+        </div> <!-- end of content -->
+
+        <div id="templatemo_footer">
+            <a href="subpage.html">Home</a> | <a href="subpage.html">Search</a> | <a href="subpage.html">Books</a> | <a href="#">New Releases</a> | <a href="#">FAQs</a> | <a href="#">Contact Us</a><br />
+            Copyright © 2048 <a href="#"><strong>Your Company Name</strong></a> | <a href="http://www.iwebsitetemplate.com" target="_parent">Website Templates</a> by <a href="http://www.templatemo.com" target="_parent" title="free css templates">Free CSS Templates</a>
+        </div>
+    </div> <!-- end of container -->
+    <div align="center">This template downloaded from <a href="http://all-free-download.com/free-website-templates/">free website templates</a></div>
+</body>
+</html>

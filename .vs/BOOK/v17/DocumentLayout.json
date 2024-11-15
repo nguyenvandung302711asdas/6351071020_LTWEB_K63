@@ -5,58 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\6351071020_ltweb_k63\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\views\\default\\nhaxb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:views\\default\\nhaxb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\views\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:views\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\views\\giohang\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:views\\giohang\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\views\\default\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:views\\default\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5960F06C-92EB-498F-8DCC-8966CD5B9996}|BOOK.csproj|solutionrelative:views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,9 +13,23 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 73,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T09:08:36.481Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -81,174 +43,18 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T15:55:09.9Z",
-              "EditorCaption": ""
-            },
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Xacnhandonhang.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Giohang\\Xacnhandonhang.cshtml",
-              "RelativeDocumentMoniker": "Views\\Giohang\\Xacnhandonhang.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Giohang\\Xacnhandonhang.cshtml",
-              "RelativeToolTip": "Views\\Giohang\\Xacnhandonhang.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T23:36:56.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Giohang\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Giohang\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Giohang\\Index.cshtml",
-              "RelativeToolTip": "Views\\Giohang\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T23:41:03.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GiohangPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Giohang\\GiohangPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Giohang\\GiohangPartial.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Giohang\\GiohangPartial.cshtml",
-              "RelativeToolTip": "Views\\Giohang\\GiohangPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T15:55:24.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GioHang.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Giohang\\GioHang.cshtml",
-              "RelativeDocumentMoniker": "Views\\Giohang\\GioHang.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Giohang\\GioHang.cshtml",
-              "RelativeToolTip": "Views\\Giohang\\GioHang.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T15:55:31.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LayoutPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\_LayoutPage.cshtml",
-              "RelativeDocumentMoniker": "Views\\_LayoutPage.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\_LayoutPage.cshtml",
-              "RelativeToolTip": "Views\\_LayoutPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T23:46:26.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NguoidungController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Controllers\\NguoidungController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NguoidungController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Controllers\\NguoidungController.cs",
-              "RelativeToolTip": "Controllers\\NguoidungController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAD4v0gAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T22:47:20.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NhaXB.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Default\\NhaXB.cshtml",
-              "RelativeDocumentMoniker": "Views\\Default\\NhaXB.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Default\\NhaXB.cshtml",
-              "RelativeToolTip": "Views\\Default\\NhaXB.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T06:44:32.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dangnhap.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Nguoidung\\Dangnhap.cshtml",
-              "RelativeDocumentMoniker": "Views\\Nguoidung\\Dangnhap.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Nguoidung\\Dangnhap.cshtml",
-              "RelativeToolTip": "Views\\Nguoidung\\Dangnhap.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T22:49:07.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Dangky.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Nguoidung\\Dangky.cshtml",
-              "RelativeDocumentMoniker": "Views\\Nguoidung\\Dangky.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Nguoidung\\Dangky.cshtml",
-              "RelativeToolTip": "Views\\Nguoidung\\Dangky.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T22:45:29.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SPTheochude.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Default\\SPTheochude.cshtml",
-              "RelativeDocumentMoniker": "Views\\Default\\SPTheochude.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Default\\SPTheochude.cshtml",
-              "RelativeToolTip": "Views\\Default\\SPTheochude.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T23:58:28.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GiohangController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Controllers\\GiohangController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GiohangController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Controllers\\GiohangController.cs",
-              "RelativeToolTip": "Controllers\\GiohangController.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAiwNQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T22:54:58.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "Controllers\\DefaultController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T23:53:16.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Dathang.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Giohang\\Dathang.cshtml",
-              "RelativeDocumentMoniker": "Views\\Giohang\\Dathang.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\6351071020_LTWEB_K63\\Views\\Giohang\\Dathang.cshtml",
-              "RelativeToolTip": "Views\\Giohang\\Dathang.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T23:13:55.59Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

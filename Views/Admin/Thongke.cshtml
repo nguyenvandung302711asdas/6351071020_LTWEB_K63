@@ -1,0 +1,53 @@
+﻿@using Newtonsoft.Json;
+
+@model IEnumerable<BOOK.Models.SACH>
+
+@{
+    ViewBag.Title = "Thongke";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Thongke</h2>
+
+<!-- Include Chart.js from CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<div style="width: 80%; margin: auto;">
+    <canvas id="bookChart" width="400" height="200"></canvas>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Data passed from controller
+        var chartLabels = @Html.Raw(JsonConvert.SerializeObject(ViewBag.ChartLabels));
+        var chartData = @Html.Raw(JsonConvert.SerializeObject(ViewBag.ChartData));
+
+        // Initialize Chart.js
+        var ctx = document.getElementById('bookChart').getContext('2d');
+        var bookChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: chartLabels,
+                datasets: [{
+                    label: 'Số lượng sách theo chủ đề',
+                    data: chartData,
+                    backgroundColor: 'rgba(255, 99, 132, 0.5)',  // Semi-transparent red for all bars
+                    borderColor: 'rgba(255, 99, 132, 1)',       // Solid red for borders of all bars
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            callback: function(value) {
+                                return value + ' sách';
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    });
+</script>
